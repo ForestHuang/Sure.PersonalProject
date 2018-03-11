@@ -1,0 +1,22 @@
+
+Begin----------------------Sure.PersonalProject.DAL.GeneratingInfoDAL--------------------------Begin 
+日志位置 : Sure.PersonalProject.DAL.GeneratingInfoDAL 
+日志时间 : 2017-08-29 10:01:55,734 
+日志类型 : ERROR 
+日志内容 : ReadGenerating() ----> 在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: Named Pipes Provider, error: 40 - 无法打开到 SQL Server 的连接) 
+End------------------------Sure.PersonalProject.DAL.GeneratingInfoDAL----------------------------End 
+
+Begin----------------------Sure.PersonalProject.DAL.GeneratingInfoDAL--------------------------Begin 
+日志位置 : Sure.PersonalProject.DAL.GeneratingInfoDAL 
+日志时间 : 2017-08-29 10:02:15,836 
+日志类型 : ERROR 
+日志内容 : ReadGenerating() ----> 在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: Named Pipes Provider, error: 40 - 无法打开到 SQL Server 的连接) 
+End------------------------Sure.PersonalProject.DAL.GeneratingInfoDAL----------------------------End 
+
+Begin----------------------Sure.PersonalProject.DAL.GeneratingInfoDAL--------------------------Begin 
+日志位置 : Sure.PersonalProject.DAL.GeneratingInfoDAL 
+日志时间 : 2017-08-29 22:51:25,071 
+日志类型 : ERROR 
+日志内容 : ReadGenerating() ----> 无法打开登录所请求的数据库 "Sure_PersoneProject"。登录失败。
+用户 'sa' 登录失败。 
+End------------------------Sure.PersonalProject.DAL.GeneratingInfoDAL----------------------------End 

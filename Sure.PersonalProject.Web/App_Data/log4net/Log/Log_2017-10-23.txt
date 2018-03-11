@@ -1,0 +1,29 @@
+
+Begin----------------------System.Runtime.Remoting.Proxies.RealProxy--------------------------Begin 
+日志位置 : System.Runtime.Remoting.Proxies.RealProxy 
+日志时间 : 2017-10-23 10:12:56,366 
+日志类型 : ERROR 
+日志内容 : 【System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage】 全局捕获异常信息 —————————> 响应消息的内容类型 text/html; charset=utf-8 与绑定(text/xml; charset=utf-8)的内容类型不匹配。如果使用自定义编码器，请确保正确实现 IsContentTypeSupported 方法。响应的前 1024 个字节为:“<!DOCTYPE html>
+<html>
+    <head>
+        <title>未能加载文件或程序集“Microsoft.AI.Web”或它的某一个依赖项。系统找不到指定的文件。</title>
+        <meta name="viewport" content="width=device-width" />
+        <style>
+         body {font-family:"Verdana";font-weight:normal;font-size: .7em;color:black;} 
+         p {font-family:"Verdana";font-weight:normal;color:black;margin-top: -5px}
+         b {font-family:"Verdana";font-weight:bold;color:black;margin-top: -5px}
+         H1 { font-family:"Verdana";font-weight:normal;font-size:18pt;color:red }
+         H2 { font-family:"Verdana";font-weight:normal;font-size:14pt;color:maroon }
+         pre {font-family:"Consolas","Lucida Console",Monospace;font-size:11pt;margin:0;padding:0.5em;line-height:14pt}
+         .marker {font-weight: bold; color: black;text-decoration: none;}
+         .version {color: gray;}
+         .error {margin-bottom: 10px;}
+         .expandable { text-decoration:underline; font-weight:bold; color:”。 
+End------------------------System.Runtime.Remoting.Proxies.RealProxy----------------------------End 
+
+Begin----------------------System.Web.Script.Serialization.JavaScriptObjectDeserializer--------------------------Begin 
+日志位置 : System.Web.Script.Serialization.JavaScriptObjectDeserializer 
+日志时间 : 2017-10-23 10:19:34,836 
+日志类型 : ERROR 
+日志内容 : 【System.Web.Script.Serialization.JavaScriptObjectDeserializer.DeserializePrimitiveObject】 全局捕获异常信息 —————————> 无效的 JSON 基元: 。 
+End------------------------System.Web.Script.Serialization.JavaScriptObjectDeserializer----------------------------End 

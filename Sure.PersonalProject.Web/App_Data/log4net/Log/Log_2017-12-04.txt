@@ -1,0 +1,14 @@
+
+Begin----------------------Sure.PersonalProject.Web.Controllers.GeneratedFileController--------------------------Begin 
+日志位置 : Sure.PersonalProject.Web.Controllers.GeneratedFileController 
+日志时间 : 2017-12-04 21:42:52,228 
+日志类型 : ERROR 
+日志内容 : 【Sure.PersonalProject.Web.Controllers.GeneratedFileController.ReadTxt】 全局捕获异常信息 —————————> 未将对象引用设置到对象的实例。 
+End------------------------Sure.PersonalProject.Web.Controllers.GeneratedFileController----------------------------End 
+
+Begin----------------------Sure.PersonalProject.Web.Controllers.GeneratedFileController--------------------------Begin 
+日志位置 : Sure.PersonalProject.Web.Controllers.GeneratedFileController 
+日志时间 : 2017-12-04 21:42:53,375 
+日志类型 : ERROR 
+日志内容 : 【Sure.PersonalProject.Web.Controllers.GeneratedFileController.ReadTxt】 全局捕获异常信息 —————————> 未将对象引用设置到对象的实例。 
+End------------------------Sure.PersonalProject.Web.Controllers.GeneratedFileController----------------------------End 

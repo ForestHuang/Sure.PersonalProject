@@ -1,0 +1,25 @@
+﻿namespace $Data.namespace
+{
+    /*---------------------------------------------------------------------
+    [author]:senlin.huang
+    [time]:$Data.time
+    [explain]:$Data.explain
+    -----------------------------------------------------------------------*/
+	using System;
+	using System.Collections.Generic;
+	using System.Linq;
+	using System.Text;
+	using System.Threading.Tasks;
+	using System.ComponentModel;
+    using System.ComponentModel.DataAnnotations;
+    using System.ComponentModel.DataAnnotations.Schema;
+
+    /// <summary>
+    /// $Data.explain
+    /// </summary>
+    [Serializable]
+    public class $Data.class
+    {
+		$Data.content
+    }
+}

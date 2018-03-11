@@ -1,0 +1,14 @@
+
+Begin----------------------Sure.PersonalProject.BLL.GeneratingInfoBLL--------------------------Begin 
+日志位置 : Sure.PersonalProject.BLL.GeneratingInfoBLL 
+日志时间 : 2017-08-28 17:34:04,954 
+日志类型 : ERROR 
+日志内容 : DeleteGenerating(Sure_GeneratingInfo requstModel) ----> 1212 
+End------------------------Sure.PersonalProject.BLL.GeneratingInfoBLL----------------------------End 
+
+Begin----------------------Sure.PersonalProject.DAL.GeneratingInfoDAL--------------------------Begin 
+日志位置 : Sure.PersonalProject.DAL.GeneratingInfoDAL 
+日志时间 : 2017-08-28 17:46:45,707 
+日志类型 : ERROR 
+日志内容 : DeleteGenerating(Sure_GeneratingInfo requstModel) ----> 未将对象引用设置到对象的实例。 
+End------------------------Sure.PersonalProject.DAL.GeneratingInfoDAL----------------------------End 

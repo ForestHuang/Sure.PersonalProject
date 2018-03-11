@@ -1,0 +1,7 @@
+
+Begin----------------------System.Web.Mvc.Controller--------------------------Begin 
+日志位置 : System.Web.Mvc.Controller 
+日志时间 : 2017-11-28 09:53:06,575 
+日志类型 : ERROR 
+日志内容 : 【System.Web.Mvc.Controller.HandleUnknownAction】 全局捕获异常信息 —————————> 在控制器“Sure.PersonalProject.Web.Controllers.DefaultController”上未找到公共操作方法“LeftMenu”。 
+End------------------------System.Web.Mvc.Controller----------------------------End 

@@ -1,0 +1,7 @@
+
+Begin----------------------Sure.PersonalProject.Web.Controllers.GeneratingController--------------------------Begin 
+日志位置 : Sure.PersonalProject.Web.Controllers.GeneratingController 
+日志时间 : 2017-08-29 23:08:43,788 
+日志类型 : ERROR 
+日志内容 : ReadTxt(string pathTxt) ----> 未能找到文件“C:\Users\senlin.huang\Desktop\Sure.PersonalProject\Sure.PersonalProject\Sure.PersonalProject.Web\Generating”。 
+End------------------------Sure.PersonalProject.Web.Controllers.GeneratingController----------------------------End 

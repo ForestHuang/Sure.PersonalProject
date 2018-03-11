@@ -1,0 +1,16 @@
+
+Begin----------------------Sure.PersonalProject.DAL.DEFAULTDAL--------------------------Begin 
+日志位置 : Sure.PersonalProject.DAL.DEFAULTDAL 
+日志时间 : 2017-11-28 10:00:57,999 
+日志类型 : ERROR 
+日志内容 : INSERT_SURE_MENU() ----> 从 nvarchar 数据类型到 datetime 数据类型的转换产生一个超出范围的值。
+语句已终止。 
+End------------------------Sure.PersonalProject.DAL.DEFAULTDAL----------------------------End 
+
+Begin----------------------Sure.PersonalProject.DAL.DEFAULTDAL--------------------------Begin 
+日志位置 : Sure.PersonalProject.DAL.DEFAULTDAL 
+日志时间 : 2017-11-28 10:05:31,127 
+日志类型 : ERROR 
+日志内容 : INSERT_SURE_MENU() ----> 从 nvarchar 数据类型到 datetime 数据类型的转换产生一个超出范围的值。
+语句已终止。 
+End------------------------Sure.PersonalProject.DAL.DEFAULTDAL----------------------------End 

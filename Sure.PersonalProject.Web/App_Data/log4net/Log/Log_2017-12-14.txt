@@ -1,0 +1,231 @@
+
+Begin----------------------System.Runtime.Remoting.Proxies.RealProxy--------------------------Begin 
+日志位置 : System.Runtime.Remoting.Proxies.RealProxy 
+日志时间 : 2017-12-14 09:51:50,324 
+日志类型 : ERROR 
+日志内容 : 【System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage】 全局捕获异常信息 —————————> 没有终结点在侦听可以接受消息的 http://localhost:44667/DEFAULT.svc。这通常是由于不正确的地址或者 SOAP 操作导致的。如果存在此情况，请参见 InnerException 以了解详细信息。 
+End------------------------System.Runtime.Remoting.Proxies.RealProxy----------------------------End 
+
+Begin----------------------System.Runtime.Remoting.Proxies.RealProxy--------------------------Begin 
+日志位置 : System.Runtime.Remoting.Proxies.RealProxy 
+日志时间 : 2017-12-14 09:53:59,566 
+日志类型 : ERROR 
+日志内容 : 【System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage】 全局捕获异常信息 —————————> 没有终结点在侦听可以接受消息的 http://localhost:44667/DEFAULT.svc。这通常是由于不正确的地址或者 SOAP 操作导致的。如果存在此情况，请参见 InnerException 以了解详细信息。 
+End------------------------System.Runtime.Remoting.Proxies.RealProxy----------------------------End 
+
+Begin----------------------System.Runtime.Remoting.Proxies.RealProxy--------------------------Begin 
+日志位置 : System.Runtime.Remoting.Proxies.RealProxy 
+日志时间 : 2017-12-14 09:53:59,595 
+日志类型 : ERROR 
+日志内容 : 【System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage】 全局捕获异常信息 —————————> 没有终结点在侦听可以接受消息的 http://localhost:44667/DEFAULT.svc。这通常是由于不正确的地址或者 SOAP 操作导致的。如果存在此情况，请参见 InnerException 以了解详细信息。 
+End------------------------System.Runtime.Remoting.Proxies.RealProxy----------------------------End 
+
+Begin----------------------System.Runtime.Remoting.Proxies.RealProxy--------------------------Begin 
+日志位置 : System.Runtime.Remoting.Proxies.RealProxy 
+日志时间 : 2017-12-14 09:54:57,722 
+日志类型 : ERROR 
+日志内容 : 【System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage】 全局捕获异常信息 —————————> 没有终结点在侦听可以接受消息的 http://localhost:44667/DEFAULT.svc。这通常是由于不正确的地址或者 SOAP 操作导致的。如果存在此情况，请参见 InnerException 以了解详细信息。 
+End------------------------System.Runtime.Remoting.Proxies.RealProxy----------------------------End 
+
+Begin----------------------System.Runtime.Remoting.Proxies.RealProxy--------------------------Begin 
+日志位置 : System.Runtime.Remoting.Proxies.RealProxy 
+日志时间 : 2017-12-14 09:54:57,761 
+日志类型 : ERROR 
+日志内容 : 【System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage】 全局捕获异常信息 —————————> 没有终结点在侦听可以接受消息的 http://localhost:44667/DEFAULT.svc。这通常是由于不正确的地址或者 SOAP 操作导致的。如果存在此情况，请参见 InnerException 以了解详细信息。 
+End------------------------System.Runtime.Remoting.Proxies.RealProxy----------------------------End 
+
+Begin----------------------System.Runtime.Remoting.Proxies.RealProxy--------------------------Begin 
+日志位置 : System.Runtime.Remoting.Proxies.RealProxy 
+日志时间 : 2017-12-14 09:54:57,770 
+日志类型 : ERROR 
+日志内容 : 【System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage】 全局捕获异常信息 —————————> 没有终结点在侦听可以接受消息的 http://localhost:44667/DEFAULT.svc。这通常是由于不正确的地址或者 SOAP 操作导致的。如果存在此情况，请参见 InnerException 以了解详细信息。 
+End------------------------System.Runtime.Remoting.Proxies.RealProxy----------------------------End 
+
+Begin----------------------System.Runtime.Remoting.Proxies.RealProxy--------------------------Begin 
+日志位置 : System.Runtime.Remoting.Proxies.RealProxy 
+日志时间 : 2017-12-14 09:55:01,348 
+日志类型 : ERROR 
+日志内容 : 【System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage】 全局捕获异常信息 —————————> 没有终结点在侦听可以接受消息的 http://localhost:44667/DEFAULT.svc。这通常是由于不正确的地址或者 SOAP 操作导致的。如果存在此情况，请参见 InnerException 以了解详细信息。 
+End------------------------System.Runtime.Remoting.Proxies.RealProxy----------------------------End 
+
+Begin----------------------System.Runtime.Remoting.Proxies.RealProxy--------------------------Begin 
+日志位置 : System.Runtime.Remoting.Proxies.RealProxy 
+日志时间 : 2017-12-14 09:55:17,696 
+日志类型 : ERROR 
+日志内容 : 【System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage】 全局捕获异常信息 —————————> 没有终结点在侦听可以接受消息的 http://localhost:44667/DEFAULT.svc。这通常是由于不正确的地址或者 SOAP 操作导致的。如果存在此情况，请参见 InnerException 以了解详细信息。 
+End------------------------System.Runtime.Remoting.Proxies.RealProxy----------------------------End 
+
+Begin----------------------System.Runtime.Remoting.Proxies.RealProxy--------------------------Begin 
+日志位置 : System.Runtime.Remoting.Proxies.RealProxy 
+日志时间 : 2017-12-14 10:04:27,113 
+日志类型 : ERROR 
+日志内容 : 【System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage】 全局捕获异常信息 —————————> 没有终结点在侦听可以接受消息的 http://localhost:44667/DEFAULT.svc。这通常是由于不正确的地址或者 SOAP 操作导致的。如果存在此情况，请参见 InnerException 以了解详细信息。 
+End------------------------System.Runtime.Remoting.Proxies.RealProxy----------------------------End 
+
+Begin----------------------System.Runtime.Remoting.Proxies.RealProxy--------------------------Begin 
+日志位置 : System.Runtime.Remoting.Proxies.RealProxy 
+日志时间 : 2017-12-14 10:04:27,135 
+日志类型 : ERROR 
+日志内容 : 【System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage】 全局捕获异常信息 —————————> 没有终结点在侦听可以接受消息的 http://localhost:44667/DEFAULT.svc。这通常是由于不正确的地址或者 SOAP 操作导致的。如果存在此情况，请参见 InnerException 以了解详细信息。 
+End------------------------System.Runtime.Remoting.Proxies.RealProxy----------------------------End 
+
+Begin----------------------System.Runtime.Remoting.Proxies.RealProxy--------------------------Begin 
+日志位置 : System.Runtime.Remoting.Proxies.RealProxy 
+日志时间 : 2017-12-14 10:04:27,163 
+日志类型 : ERROR 
+日志内容 : 【System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage】 全局捕获异常信息 —————————> 没有终结点在侦听可以接受消息的 http://localhost:44667/DEFAULT.svc。这通常是由于不正确的地址或者 SOAP 操作导致的。如果存在此情况，请参见 InnerException 以了解详细信息。 
+End------------------------System.Runtime.Remoting.Proxies.RealProxy----------------------------End 
+
+Begin----------------------System.Runtime.Remoting.Proxies.RealProxy--------------------------Begin 
+日志位置 : System.Runtime.Remoting.Proxies.RealProxy 
+日志时间 : 2017-12-14 10:04:27,181 
+日志类型 : ERROR 
+日志内容 : 【System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage】 全局捕获异常信息 —————————> 没有终结点在侦听可以接受消息的 http://localhost:44667/DEFAULT.svc。这通常是由于不正确的地址或者 SOAP 操作导致的。如果存在此情况，请参见 InnerException 以了解详细信息。 
+End------------------------System.Runtime.Remoting.Proxies.RealProxy----------------------------End 
+
+Begin----------------------System.Runtime.Remoting.Proxies.RealProxy--------------------------Begin 
+日志位置 : System.Runtime.Remoting.Proxies.RealProxy 
+日志时间 : 2017-12-14 10:04:27,187 
+日志类型 : ERROR 
+日志内容 : 【System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage】 全局捕获异常信息 —————————> 没有终结点在侦听可以接受消息的 http://localhost:44667/DEFAULT.svc。这通常是由于不正确的地址或者 SOAP 操作导致的。如果存在此情况，请参见 InnerException 以了解详细信息。 
+End------------------------System.Runtime.Remoting.Proxies.RealProxy----------------------------End 
+
+Begin----------------------System.ServiceModel.Channels.CommunicationObject--------------------------Begin 
+日志位置 : System.ServiceModel.Channels.CommunicationObject 
+日志时间 : 2017-12-14 10:06:00,863 
+日志类型 : ERROR 
+日志内容 : 【System.ServiceModel.Channels.CommunicationObject.ThrowIfDisposedOrImmutable】 全局捕获异常信息 —————————> 通信对象 System.ServiceModel.ChannelFactory`1[Sure.PersonalProject.Contract.IDEFAULT] 处于 Opening 状态时无法对其进行修改。 
+End------------------------System.ServiceModel.Channels.CommunicationObject----------------------------End 
+
+Begin----------------------System.Runtime.Remoting.Proxies.RealProxy--------------------------Begin 
+日志位置 : System.Runtime.Remoting.Proxies.RealProxy 
+日志时间 : 2017-12-14 10:06:00,888 
+日志类型 : ERROR 
+日志内容 : 【System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage】 全局捕获异常信息 —————————> 没有终结点在侦听可以接受消息的 http://localhost:44667/DEFAULT.svc。这通常是由于不正确的地址或者 SOAP 操作导致的。如果存在此情况，请参见 InnerException 以了解详细信息。 
+End------------------------System.Runtime.Remoting.Proxies.RealProxy----------------------------End 
+
+Begin----------------------System.Runtime.Remoting.Proxies.RealProxy--------------------------Begin 
+日志位置 : System.Runtime.Remoting.Proxies.RealProxy 
+日志时间 : 2017-12-14 10:06:00,912 
+日志类型 : ERROR 
+日志内容 : 【System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage】 全局捕获异常信息 —————————> 没有终结点在侦听可以接受消息的 http://localhost:44667/DEFAULT.svc。这通常是由于不正确的地址或者 SOAP 操作导致的。如果存在此情况，请参见 InnerException 以了解详细信息。 
+End------------------------System.Runtime.Remoting.Proxies.RealProxy----------------------------End 
+
+Begin----------------------System.Runtime.Remoting.Proxies.RealProxy--------------------------Begin 
+日志位置 : System.Runtime.Remoting.Proxies.RealProxy 
+日志时间 : 2017-12-14 10:06:00,931 
+日志类型 : ERROR 
+日志内容 : 【System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage】 全局捕获异常信息 —————————> 没有终结点在侦听可以接受消息的 http://localhost:44667/DEFAULT.svc。这通常是由于不正确的地址或者 SOAP 操作导致的。如果存在此情况，请参见 InnerException 以了解详细信息。 
+End------------------------System.Runtime.Remoting.Proxies.RealProxy----------------------------End 
+
+Begin----------------------System.Runtime.Remoting.Proxies.RealProxy--------------------------Begin 
+日志位置 : System.Runtime.Remoting.Proxies.RealProxy 
+日志时间 : 2017-12-14 10:06:00,949 
+日志类型 : ERROR 
+日志内容 : 【System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage】 全局捕获异常信息 —————————> 没有终结点在侦听可以接受消息的 http://localhost:44667/DEFAULT.svc。这通常是由于不正确的地址或者 SOAP 操作导致的。如果存在此情况，请参见 InnerException 以了解详细信息。 
+End------------------------System.Runtime.Remoting.Proxies.RealProxy----------------------------End 
+
+Begin----------------------System.Runtime.Remoting.Proxies.RealProxy--------------------------Begin 
+日志位置 : System.Runtime.Remoting.Proxies.RealProxy 
+日志时间 : 2017-12-14 10:07:02,502 
+日志类型 : ERROR 
+日志内容 : 【System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage】 全局捕获异常信息 —————————> 没有终结点在侦听可以接受消息的 http://localhost:44667/DEFAULT.svc。这通常是由于不正确的地址或者 SOAP 操作导致的。如果存在此情况，请参见 InnerException 以了解详细信息。 
+End------------------------System.Runtime.Remoting.Proxies.RealProxy----------------------------End 
+
+Begin----------------------System.Runtime.Remoting.Proxies.RealProxy--------------------------Begin 
+日志位置 : System.Runtime.Remoting.Proxies.RealProxy 
+日志时间 : 2017-12-14 10:08:40,745 
+日志类型 : ERROR 
+日志内容 : 【System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage】 全局捕获异常信息 —————————> 没有终结点在侦听可以接受消息的 http://localhost:44667/DEFAULT.svc。这通常是由于不正确的地址或者 SOAP 操作导致的。如果存在此情况，请参见 InnerException 以了解详细信息。 
+End------------------------System.Runtime.Remoting.Proxies.RealProxy----------------------------End 
+
+Begin----------------------System.Runtime.Remoting.Proxies.RealProxy--------------------------Begin 
+日志位置 : System.Runtime.Remoting.Proxies.RealProxy 
+日志时间 : 2017-12-14 10:08:40,768 
+日志类型 : ERROR 
+日志内容 : 【System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage】 全局捕获异常信息 —————————> 没有终结点在侦听可以接受消息的 http://localhost:44667/DEFAULT.svc。这通常是由于不正确的地址或者 SOAP 操作导致的。如果存在此情况，请参见 InnerException 以了解详细信息。 
+End------------------------System.Runtime.Remoting.Proxies.RealProxy----------------------------End 
+
+Begin----------------------System.Runtime.Remoting.Proxies.RealProxy--------------------------Begin 
+日志位置 : System.Runtime.Remoting.Proxies.RealProxy 
+日志时间 : 2017-12-14 10:08:40,794 
+日志类型 : ERROR 
+日志内容 : 【System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage】 全局捕获异常信息 —————————> 没有终结点在侦听可以接受消息的 http://localhost:44667/DEFAULT.svc。这通常是由于不正确的地址或者 SOAP 操作导致的。如果存在此情况，请参见 InnerException 以了解详细信息。 
+End------------------------System.Runtime.Remoting.Proxies.RealProxy----------------------------End 
+
+Begin----------------------System.Runtime.Remoting.Proxies.RealProxy--------------------------Begin 
+日志位置 : System.Runtime.Remoting.Proxies.RealProxy 
+日志时间 : 2017-12-14 10:08:40,802 
+日志类型 : ERROR 
+日志内容 : 【System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage】 全局捕获异常信息 —————————> 没有终结点在侦听可以接受消息的 http://localhost:44667/DEFAULT.svc。这通常是由于不正确的地址或者 SOAP 操作导致的。如果存在此情况，请参见 InnerException 以了解详细信息。 
+End------------------------System.Runtime.Remoting.Proxies.RealProxy----------------------------End 
+
+Begin----------------------System.Runtime.Remoting.Proxies.RealProxy--------------------------Begin 
+日志位置 : System.Runtime.Remoting.Proxies.RealProxy 
+日志时间 : 2017-12-14 10:08:40,812 
+日志类型 : ERROR 
+日志内容 : 【System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage】 全局捕获异常信息 —————————> 没有终结点在侦听可以接受消息的 http://localhost:44667/DEFAULT.svc。这通常是由于不正确的地址或者 SOAP 操作导致的。如果存在此情况，请参见 InnerException 以了解详细信息。 
+End------------------------System.Runtime.Remoting.Proxies.RealProxy----------------------------End 
+
+Begin----------------------System.Runtime.Remoting.Proxies.RealProxy--------------------------Begin 
+日志位置 : System.Runtime.Remoting.Proxies.RealProxy 
+日志时间 : 2017-12-14 10:08:55,033 
+日志类型 : ERROR 
+日志内容 : 【System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage】 全局捕获异常信息 —————————> 没有终结点在侦听可以接受消息的 http://localhost:44667/DEFAULT.svc。这通常是由于不正确的地址或者 SOAP 操作导致的。如果存在此情况，请参见 InnerException 以了解详细信息。 
+End------------------------System.Runtime.Remoting.Proxies.RealProxy----------------------------End 
+
+Begin----------------------System.Runtime.Remoting.Proxies.RealProxy--------------------------Begin 
+日志位置 : System.Runtime.Remoting.Proxies.RealProxy 
+日志时间 : 2017-12-14 10:08:56,570 
+日志类型 : ERROR 
+日志内容 : 【System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage】 全局捕获异常信息 —————————> 没有终结点在侦听可以接受消息的 http://localhost:44667/DEFAULT.svc。这通常是由于不正确的地址或者 SOAP 操作导致的。如果存在此情况，请参见 InnerException 以了解详细信息。 
+End------------------------System.Runtime.Remoting.Proxies.RealProxy----------------------------End 
+
+Begin----------------------System.Runtime.Remoting.Proxies.RealProxy--------------------------Begin 
+日志位置 : System.Runtime.Remoting.Proxies.RealProxy 
+日志时间 : 2017-12-14 10:09:53,221 
+日志类型 : ERROR 
+日志内容 : 【System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage】 全局捕获异常信息 —————————> 没有终结点在侦听可以接受消息的 http://localhost:44667/DEFAULT.svc。这通常是由于不正确的地址或者 SOAP 操作导致的。如果存在此情况，请参见 InnerException 以了解详细信息。 
+End------------------------System.Runtime.Remoting.Proxies.RealProxy----------------------------End 
+
+Begin----------------------System.Runtime.Remoting.Proxies.RealProxy--------------------------Begin 
+日志位置 : System.Runtime.Remoting.Proxies.RealProxy 
+日志时间 : 2017-12-14 10:09:53,250 
+日志类型 : ERROR 
+日志内容 : 【System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage】 全局捕获异常信息 —————————> 没有终结点在侦听可以接受消息的 http://localhost:44667/DEFAULT.svc。这通常是由于不正确的地址或者 SOAP 操作导致的。如果存在此情况，请参见 InnerException 以了解详细信息。 
+End------------------------System.Runtime.Remoting.Proxies.RealProxy----------------------------End 
+
+Begin----------------------System.Runtime.Remoting.Proxies.RealProxy--------------------------Begin 
+日志位置 : System.Runtime.Remoting.Proxies.RealProxy 
+日志时间 : 2017-12-14 10:09:53,305 
+日志类型 : ERROR 
+日志内容 : 【System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage】 全局捕获异常信息 —————————> 没有终结点在侦听可以接受消息的 http://localhost:44667/DEFAULT.svc。这通常是由于不正确的地址或者 SOAP 操作导致的。如果存在此情况，请参见 InnerException 以了解详细信息。 
+End------------------------System.Runtime.Remoting.Proxies.RealProxy----------------------------End 
+
+Begin----------------------System.Runtime.Remoting.Proxies.RealProxy--------------------------Begin 
+日志位置 : System.Runtime.Remoting.Proxies.RealProxy 
+日志时间 : 2017-12-14 10:09:53,316 
+日志类型 : ERROR 
+日志内容 : 【System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage】 全局捕获异常信息 —————————> 没有终结点在侦听可以接受消息的 http://localhost:44667/DEFAULT.svc。这通常是由于不正确的地址或者 SOAP 操作导致的。如果存在此情况，请参见 InnerException 以了解详细信息。 
+End------------------------System.Runtime.Remoting.Proxies.RealProxy----------------------------End 
+
+Begin----------------------System.Runtime.Remoting.Proxies.RealProxy--------------------------Begin 
+日志位置 : System.Runtime.Remoting.Proxies.RealProxy 
+日志时间 : 2017-12-14 10:10:14,293 
+日志类型 : ERROR 
+日志内容 : 【System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage】 全局捕获异常信息 —————————> 没有终结点在侦听可以接受消息的 http://localhost:44667/DEFAULT.svc。这通常是由于不正确的地址或者 SOAP 操作导致的。如果存在此情况，请参见 InnerException 以了解详细信息。 
+End------------------------System.Runtime.Remoting.Proxies.RealProxy----------------------------End 
+
+Begin----------------------System.Runtime.Remoting.Proxies.RealProxy--------------------------Begin 
+日志位置 : System.Runtime.Remoting.Proxies.RealProxy 
+日志时间 : 2017-12-14 10:11:05,807 
+日志类型 : ERROR 
+日志内容 : 【System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage】 全局捕获异常信息 —————————> 没有终结点在侦听可以接受消息的 http://localhost:44667/DEFAULT.svc。这通常是由于不正确的地址或者 SOAP 操作导致的。如果存在此情况，请参见 InnerException 以了解详细信息。 
+End------------------------System.Runtime.Remoting.Proxies.RealProxy----------------------------End 
+
+Begin----------------------System.Runtime.Remoting.Proxies.RealProxy--------------------------Begin 
+日志位置 : System.Runtime.Remoting.Proxies.RealProxy 
+日志时间 : 2017-12-14 10:11:05,878 
+日志类型 : ERROR 
+日志内容 : 【System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage】 全局捕获异常信息 —————————> 没有终结点在侦听可以接受消息的 http://localhost:44667/DEFAULT.svc。这通常是由于不正确的地址或者 SOAP 操作导致的。如果存在此情况，请参见 InnerException 以了解详细信息。 
+End------------------------System.Runtime.Remoting.Proxies.RealProxy----------------------------End 

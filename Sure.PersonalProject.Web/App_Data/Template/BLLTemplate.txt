@@ -1,0 +1,21 @@
+﻿namespace $Data.namespace
+{
+    /*---------------------------------------------------------------------
+    [author]:senlin.huang
+    [time]:$Data.time
+    [explain]:$Data.explain
+    -----------------------------------------------------------------------*/
+	using System;
+	using System.Collections.Generic;
+	using System.Linq;
+	using System.Text;
+	using System.Threading.Tasks;
+
+	/// <summary>
+    /// $Data.className数据逻辑层
+    /// </summary>
+    public class $Data.classNameBususines
+    {
+		 
+    }
+}

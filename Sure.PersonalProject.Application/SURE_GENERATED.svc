@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="Sure.PersonalProject.ContractImp.SURE_GENERATED" CodeBehind="SURE_GENERATED.cs" %>

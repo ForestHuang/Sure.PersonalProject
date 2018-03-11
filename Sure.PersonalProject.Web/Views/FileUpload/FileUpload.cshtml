@@ -1,0 +1,103 @@
+﻿@{
+    Layout = null;
+}
+
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>上传下载</title>
+    <link rel="shortcut icon" href="favicon.ico">
+    <!-- Css -->
+    <!-- Bootstrap.min -->
+    <link type="text/css" href="~/Sure.JavaScript/Sure.Web/css/bootstrap.min.css?v=3.3.5" rel="stylesheet" />
+    <!-- Font-awesome.min -->
+    <link type="text/css" href="~/Sure.JavaScript/Sure.Web/css/font-awesome.min.css?v=4.4.0" rel="stylesheet" />
+    <!-- Animate.min -->
+    <link type="text/css" href="~/Sure.JavaScript/Sure.Web/css/animate.min.css" rel="stylesheet" />
+    <!-- Toastr.min css-->
+    <link href="~/Sure.JavaScript/Sure.Toastr/toastr.min.css" rel="stylesheet" />
+    <!-- Style.min -->
+    <link type="text/css" href="~/Sure.JavaScript/Sure.Web/css/style.min.css?v=4.0.0" rel="stylesheet" />
+    <!-- Webuploader -->
+    <link href="~/Sure.JavaScript/Sure.WebUploader/webuploader.css" rel="stylesheet" />
+</head>
+
+<body class="gray-bg">
+    <div class="wrapper wrapper-content animated fadeIn">
+        <div class="row">
+            <div class="col-sm-12">
+                <div class="ibox float-e-margins">
+                    <!-- Top Header -->
+                    <div class="ibox-title">
+                        <h5>上  传</h5>
+                    </div>
+                    <!-- Content -->
+                    <div class="ibox-content">
+                        <div class="page-container">
+                            <div id="uploader-div" class="wu-example">
+                                <!-- 文件列表 -->
+                                <table class="table">
+                                    <!-- 表格标题 -->
+                                    <thead>
+                                        <tr>
+                                            <th width="50%">Name</th>
+                                            <th>Size</th>
+                                            <th>Progress</th>
+                                            <th>Status</th>
+                                            <th>Actions</th>
+                                        </tr>
+                                    </thead>
+                                    <!-- 表格内容 -->
+                                    <tbody id="tbodyList"></tbody>
+                                </table>
+                                <div>
+                                    <!-- 进度条 -->
+                                    <div>
+                                        Queue progress:
+                                        <div class="progress">
+                                            <div id="progressbarId" class="progress-bar" role="progressbar" style="width:0%;"></div>
+                                        </div>
+                                    </div>
+
+                                    <!-- 选择文件 -->
+                                    <div id="Select-File" type="button" style="float:left;">
+                                        <span class="glyphicon glyphicon-file"></span> Choice file
+                                    </div>
+
+                                    <!-- 操作按钮 -->
+                                    <div style="text-align:right;">
+                                        <button id="but-Upload" type="button" class="btn btn-success btn-s">
+                                            <span class="glyphicon glyphicon-upload"></span> Upload all
+                                        </button>
+                                        <button type="button" class="btn btn-warning btn-s" onclick="cancelAll()">
+                                            <span class="glyphicon glyphicon-ban-circle"></span> Cancel all
+                                        </button>
+                                        <button type="button" class="btn btn-danger btn-s" onclick="clearQueue()">
+                                            <span class="glyphicon glyphicon-trash"></span> Remove all
+                                        </button>
+                                    </div>
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Jquery.min -->
+    <script type="text/javascript" src="~/Sure.JavaScript/Sure.Web/js/jquery.min.js?v=2.1.4"></script>
+    <!-- Bootstrap.min -->
+    <script type="text/javascript" src="~/Sure.JavaScript/Sure.Web/js/js/bootstrap.min.js?v=3.3.5"></script>
+    <!-- Content.min -->
+    <script type="text/javascript" src="~/Sure.JavaScript/Sure.Web/js/content.min.js?v=1.0.0"></script>
+    <!-- Toastr.min Js -->
+    <script type="text/javascript" src="~/Sure.JavaScript/Sure.Toastr/toastr.min.js"></script>
+    <!-- Webuploader -->
+    <script type="text/javascript" src="~/Sure.JavaScript/Sure.WebUploader/webuploader.min.js"></script>
+    <!-- FileUpload -->
+    <script type="text/javascript"  src="~/Sure.JavaScript/Sure.FileUpload/FileUpload.js"></script>
+</body>
+</html>

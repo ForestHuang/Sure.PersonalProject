@@ -1,0 +1,7 @@
+
+Begin----------------------System.ServiceModel.Channels.CommunicationObject--------------------------Begin 
+日志位置 : System.ServiceModel.Channels.CommunicationObject 
+日志时间 : 2017-12-21 17:11:33,089 
+日志类型 : ERROR 
+日志内容 : 【System.ServiceModel.Channels.CommunicationObject.ThrowIfDisposedOrImmutable】 全局捕获异常信息 —————————> 通信对象 System.ServiceModel.ChannelFactory`1[Sure.PersonalProject.Contract.IDEFAULT] 处于 Opening 状态时无法对其进行修改。 
+End------------------------System.ServiceModel.Channels.CommunicationObject----------------------------End 

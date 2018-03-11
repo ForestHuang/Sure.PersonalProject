@@ -1,0 +1,50 @@
+
+Begin----------------------System.Runtime.Remoting.Proxies.RealProxy--------------------------Begin 
+日志位置 : System.Runtime.Remoting.Proxies.RealProxy 
+日志时间 : 2017-11-27 10:46:14,060 
+日志类型 : ERROR 
+日志内容 : 【System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage】 全局捕获异常信息 —————————> 无法激活请求的服务“http://localhost:44667/SURE_GENERATED.svc”。有关详细信息，请参见服务器的诊断跟踪日志。 
+End------------------------System.Runtime.Remoting.Proxies.RealProxy----------------------------End 
+
+Begin----------------------System.Web.Mvc.ViewResult--------------------------Begin 
+日志位置 : System.Web.Mvc.ViewResult 
+日志时间 : 2017-11-27 16:28:04,315 
+日志类型 : ERROR 
+日志内容 : 【System.Web.Mvc.ViewResult.FindView】 全局捕获异常信息 —————————> 未找到视图“LeftMenu”或其母版视图，或没有视图引擎支持搜索的位置。搜索了以下位置: 
+~/Views/Default/LeftMenu.aspx
+~/Views/Default/LeftMenu.ascx
+~/Views/Shared/LeftMenu.aspx
+~/Views/Shared/LeftMenu.ascx
+~/Views/Default/LeftMenu.cshtml
+~/Views/Default/LeftMenu.vbhtml
+~/Views/Shared/LeftMenu.cshtml
+~/Views/Shared/LeftMenu.vbhtml 
+End------------------------System.Web.Mvc.ViewResult----------------------------End 
+
+Begin----------------------System.Web.Mvc.Controller--------------------------Begin 
+日志位置 : System.Web.Mvc.Controller 
+日志时间 : 2017-11-27 16:38:49,717 
+日志类型 : ERROR 
+日志内容 : 【System.Web.Mvc.Controller.HandleUnknownAction】 全局捕获异常信息 —————————> 在控制器“Sure.PersonalProject.Web.Controllers.DefaultController”上未找到公共操作方法“LeftMenuSavaOrEdit”。 
+End------------------------System.Web.Mvc.Controller----------------------------End 
+
+Begin----------------------System.Web.Mvc.Controller--------------------------Begin 
+日志位置 : System.Web.Mvc.Controller 
+日志时间 : 2017-11-27 16:44:35,675 
+日志类型 : ERROR 
+日志内容 : 【System.Web.Mvc.Controller.HandleUnknownAction】 全局捕获异常信息 —————————> 在控制器“Sure.PersonalProject.Web.Controllers.DefaultController”上未找到公共操作方法“LeftMenuSavaOrEdit”。 
+End------------------------System.Web.Mvc.Controller----------------------------End 
+
+Begin----------------------System.Web.Mvc.Controller--------------------------Begin 
+日志位置 : System.Web.Mvc.Controller 
+日志时间 : 2017-11-27 16:45:40,716 
+日志类型 : ERROR 
+日志内容 : 【System.Web.Mvc.Controller.HandleUnknownAction】 全局捕获异常信息 —————————> 在控制器“Sure.PersonalProject.Web.Controllers.DefaultController”上未找到公共操作方法“LeftMenuSavaOrEdit”。 
+End------------------------System.Web.Mvc.Controller----------------------------End 
+
+Begin----------------------System.Web.Mvc.Controller--------------------------Begin 
+日志位置 : System.Web.Mvc.Controller 
+日志时间 : 2017-11-27 16:45:40,730 
+日志类型 : ERROR 
+日志内容 : 【System.Web.Mvc.Controller.HandleUnknownAction】 全局捕获异常信息 —————————> 在控制器“Sure.PersonalProject.Web.Controllers.DefaultController”上未找到公共操作方法“LeftMenuSavaOrEdit”。 
+End------------------------System.Web.Mvc.Controller----------------------------End 

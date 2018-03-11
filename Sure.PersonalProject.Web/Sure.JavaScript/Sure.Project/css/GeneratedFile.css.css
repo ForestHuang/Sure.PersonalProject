@@ -1,0 +1,30 @@
+﻿body {
+    margin: 0px;
+    padding: 0px;
+}
+
+.left-div-Login {
+    width: 30%;
+}
+
+.col-sm-10 button {
+    margin-right: 5px;
+}
+
+.middle-div-db {
+    width: 30%;
+    position: absolute;
+    left: 32%;
+    top: 4%;
+}
+
+.middle-2-div-db {
+    width: 38%;
+    position: absolute;
+    top: 4%;
+    left: 64%;
+}
+
+.m-t-none {
+    text-align: left;
+}

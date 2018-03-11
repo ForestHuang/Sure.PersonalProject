@@ -1,0 +1,14 @@
+
+Begin----------------------Sure.PersonalProject.DAL.GeneratingInfoDAL--------------------------Begin 
+日志位置 : Sure.PersonalProject.DAL.GeneratingInfoDAL 
+日志时间 : 2017-11-27 10:54:49,320 
+日志类型 : ERROR 
+日志内容 : ReadGenerating() ----> 对象名 'Sure_GeneratingInfo' 无效。 
+End------------------------Sure.PersonalProject.DAL.GeneratingInfoDAL----------------------------End 
+
+Begin----------------------Sure.PersonalProject.DAL.GeneratingInfoDAL--------------------------Begin 
+日志位置 : Sure.PersonalProject.DAL.GeneratingInfoDAL 
+日志时间 : 2017-11-27 14:19:47,161 
+日志类型 : ERROR 
+日志内容 : ReadGenerating() ----> 对象名 'Sure_GeneratingInfo' 无效。 
+End------------------------Sure.PersonalProject.DAL.GeneratingInfoDAL----------------------------End 

@@ -1,0 +1,60 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>菜单编辑</title>
+    <link href="~/Sure.JavaScript/Sure.Web/css/bootstrap.min.css?v=3.3.5" rel="stylesheet">
+    <link href="~/Sure.JavaScript/Sure.Web/css/font-awesome.min.css?v=4.4.0" rel="stylesheet">
+    <link href="~/Sure.JavaScript/Sure.Web/css/animate.min.css" rel="stylesheet">
+    <link href="~/Sure.JavaScript/Sure.Web/css/style.min.css?v=4.0.0" rel="stylesheet">
+</head>
+<body>
+    <div style="width:200px;height:300px;"  class="ibox-content">
+        <form class="form-horizontal m-t" id="commentForm">
+            <div class="form-group">
+                <label class="col-sm-3 control-label">父菜单：</label>
+                <div class="col-sm-8">
+                    <input id="cname" name="name" minlength="2" type="text" class="form-control" required="" aria-required="true">
+                </div>
+            </div>
+            <div class="form-group">
+                <label class="col-sm-3 control-label">子菜单：</label>
+                <div class="col-sm-8">
+                    <input id="cemail" type="email" class="form-control" name="email" required="" aria-required="true">
+                </div>
+            </div>
+            <div class="form-group">
+                <label class="col-sm-3 control-label">ICO：</label>
+                <div class="col-sm-8">
+                    <input id="curl" type="url" class="form-control" name="url">
+                </div>
+            </div>
+            <div class="form-group">
+                <label class="col-sm-3 control-label">URL：</label>
+                <div class="col-sm-8">
+                    <textarea id="ccomment" name="comment" class="form-control" required="" aria-required="true"></textarea>
+                </div>
+            </div>
+            <div class="form-group">
+                <div class="col-sm-4 col-sm-offset-3">
+                    <button class="btn btn-primary" type="submit">提交</button>
+                </div>
+            </div>
+        </form>
+    </div>
+
+    <!-- JavaScript -->
+    <script src="~/Sure.JavaScript/Sure.Web/js/jquery.min.js?v=2.1.4"></script>
+    <script src="~/Sure.JavaScript/Sure.Web/js/bootstrap.min.js?v=3.3.5"></script>
+    <script src="~/Sure.JavaScript/Sure.Web/js/content.min.js?v=1.0.0"></script>
+    <script src="~/Sure.JavaScript/Sure.Web/js/plugins/validate/jquery.validate.min.js"></script>
+    <script src="~/Sure.JavaScript/Sure.Web/js/plugins/validate/messages_zh.min.js"></script>
+    <script src="~/Sure.JavaScript/Sure.Web/js/demo/form-validate-demo.min.js"></script>
+</body>
+</html>

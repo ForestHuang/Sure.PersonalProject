@@ -1,0 +1,241 @@
+﻿@{ Layout = null; }
+
+<!DOCTYPE html>
+<html lang="zh-cn">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GeneratedFile</title>
+    <!-- favicon -->
+    <link rel="shortcut icon" href="~/Sure.JavaScript/favicon.ico">
+    <!-- bootstrap css -->
+    <link href="~/Sure.JavaScript/Sure.Web/css/bootstrap.min.css?v=3.3.5" rel="stylesheet" />
+    <!-- dataTables.bootstrap -->
+    <link href="~/Sure.JavaScript/Sure.Web/css/plugins/dataTables/dataTables.bootstrap.css" rel="stylesheet" />
+    <!-- font-awesome.min -->
+    <link href="~/Sure.JavaScript/Sure.Web/css/font-awesome.min.css?v=4.4.0" rel="stylesheet">
+    <!-- custom -->
+    <link href="~/Sure.JavaScript/Sure.Web/css/plugins/iCheck/custom.css" rel="stylesheet">
+    <!-- animate.min -->
+    <link href="~/Sure.JavaScript/Sure.Web/css/animate.min.css" rel="stylesheet">
+    <!-- style.min -->
+    <link href="~/Sure.JavaScript/Sure.Web/css/style.min.css?v=4.0.0" rel="stylesheet">
+    <!-- toastr.min css-->
+    <link href="~/Sure.JavaScript/Sure.Toastr/toastr.min.css" rel="stylesheet" />
+    <!-- combo.select -->
+    <link href="~/Sure.JavaScript/Sure.Web/css/combo.select.css" rel="stylesheet" />
+    <!-- codemirror -->
+    <link href="~/Sure.JavaScript/Sure.Web/css/plugins/codemirror/codemirror.css" rel="stylesheet">
+    <!-- ambiance -->
+    <link href="~/Sure.JavaScript/Sure.Web/css/plugins/codemirror/ambiance.css" rel="stylesheet">
+    <!-- GeneratedFile.css -->
+    <link href="~/Sure.JavaScript/Sure.Project/css/GeneratedFile.css.css" rel="stylesheet" />
+    <!--  AngularJs  -->
+    <script type="text/javascript" src="~/Sure.JavaScript/Sure.Angularjs/angular.min.js"></script>
+
+</head>
+<body class="gray-bg" ng-app="GeneratedFileApp" ng-controller="GeneratedFileController">
+    <div>
+        <div class="ibox-content">
+            <!-- 上 -->
+            <div class="row">
+                <div class="col-lg-pull-12 text-center">
+                    <!-- 数据库 -->
+                    <form class="form-horizontal" name="formDd">
+                        <!-- 数据库名称 -->
+                        <div class="form-group">
+                            <label class="col-sm-3 control-label">数据库:</label>
+                            <div class="col-sm-8">
+                                <select ng-change="ChangeDBbyTable(localDataBase);"
+                                        ng-model="localDataBase" ng-options="x for x in resultDB" ng-value="x"
+                                        class="form-control m-b" name="Account"
+                                        style="width:50%;float:left;"></select>
+                                <!-- 登录图标 -->
+                                <a data-toggle="modal" href="#modal-form">
+                                    <i style="position:absolute;left:51%;top:10px;cursor:pointer;"
+                                       class="glyphicon glyphicon-user" aria-hidden="true"></i>
+                                </a>
+                            </div>
+                        </div>
+                        <!-- 表名 -->
+                        <div class="form-group">
+                            <label class="col-sm-3 control-label">表名:</label>
+                            <div class="col-sm-8">
+                                <select ng-model="localDataTable"
+                                        ng-options="x for x in resultTable"
+                                        class="form-control" multiple="multiple"
+                                        style="width:50%;"></select>
+                            </div>
+                        </div>
+
+                        <!-- 类名 -->
+                        <div class="form-group">
+                            <label class="col-sm-3 control-label">类名：</label>
+                            <div class="col-sm-8">
+                                <input type="text" placeholder="类名(可空)" class="form-control"
+                                       style="width:50%;" />
+                            </div>
+                        </div>
+
+                        <!-- 命名空间 -->
+                        <div class="form-group">
+                            <label class="col-sm-3 control-label">命名空间：</label>
+                            <div class="col-sm-8">
+                                <input ng-model="Namespace" type="text" placeholder="命名空间(可空)" class="form-control"
+                                       style="width:50%;" />
+                            </div>
+                        </div>
+
+                        <!-- 个性注释 -->
+                        <div class="form-group">
+                            <label class="col-sm-3 control-label">注释说明：</label>
+                            <div class="col-sm-8">
+                                <textarea ng-model="notesContent" type="text" required="required" placeholder="注释说明"
+                                          class="form-control"
+                                          style="width:70%;"></textarea>
+                            </div>
+                        </div>
+
+                        <!-- 类型 -->
+                        <div class="form-group">
+                            <label class="col-sm-3 control-label"></label>
+                            <div class="col-sm-8 radio i-checks" style="text-align:left;line-height:5px;padding-top:12px;padding-left:15px;">
+                                <label>
+                                    <input type="radio" name="template" value="0" checked="checked"> <i></i>Model
+                                </label>
+                                <label>
+                                    <input type="radio" name="template" value="1"> <i></i>BLL
+                                </label>
+                                <label>
+                                    <input type="radio" name="template" value="2"> <i></i>DAL
+                                </label>
+                            </div>
+
+                        </div>
+
+                        <!-- 操作按钮 -->
+                        <div class="form-group col-sm-10 col-sm-offset-2 right">
+                            <!-- 模板 , 修改保存 -->
+                            <button ng-click="SaveTemplateClick();" class="btn btn-sm btn-primary pull-right m-t-n-xs" type="button">
+                                <strong>模板保存</strong>
+                            </button>
+
+                            <!-- 读取模板 -->
+                            <button ng-click="ReadTemplateClick();" class="btn btn-sm btn-primary pull-right m-t-n-xs" type="button">
+                                <strong>读取模板</strong>
+                            </button>
+
+                            <!-- 生成 -->
+                            <button ng-click="GenerateClick(formTemplate);" class="btn btn-sm btn-primary pull-right m-t-n-xs" type="button">
+                                <strong>生 成</strong>
+                            </button>
+                        </div>
+
+                    </form>
+                </div>
+            </div>
+
+            <!-- 文件列表 -->
+            <div class="row">
+                <div class="col-lg-pull-12">
+                    <div class="ibox float-e-margins">
+                        <div class="ibox-title">
+                            <h5>
+                                文件列表 <small>类型,查找</small>
+                            </h5>
+                        </div>
+                        <div class="ibox-content">
+                            <table class="table table-striped table-bordered table-hover dataTables-example"></table>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- 下 -->
+            <div class="row" style="height:400px;">
+                <div class="col-lg-pull-12">
+                    <div class="ibox float-e-margins">
+                        <div class="ibox-content p-md">
+                            <h3 class="m-t-none m-b">编辑器</h3>
+                            <textarea id="MyCode"></textarea>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+    <!-- 登录弹窗 -->
+    <div id="modal-form" class="modal fade" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-body">
+                    <div class="row">
+                        <form class="form-horizontal" name="LoginForm">
+                            <!-- 服务器 -->
+                            <div class="form-group">
+                                <label class="col-sm-3 control-label">服务器:</label>
+                                <div class="col-sm-8" id="div-Select" ng-hide="visible">
+                                    <select ng-model="localIpSelect" class="select-local" ng-options="x.name for x in localDB" ng-value="x.value"></select>
+                                </div>
+                            </div>
+                            <!-- 用户名 -->
+                            <div class="form-group">
+                                <label class="col-sm-3 control-label">用户名：</label>
+                                <div class="col-sm-8">
+                                    <input ng-model="userAccount" type="text" required="required" placeholder="用户名" class="form-control">
+                                </div>
+                            </div>
+                            <!-- 密码 -->
+                            <div class="form-group">
+                                <label class="col-sm-3 control-label">密码：</label>
+                                <div class="col-sm-8">
+                                    <input ng-model="userPwd" type="password" required="required" placeholder="密码" class="form-control">
+                                </div>
+                            </div>
+                            <!-- 登录按钮 -->
+                            <div class="form-group">
+                                <div class="col-sm-offset-3 col-sm-8">
+                                    <button ng-disabled="Loginddisabled" ng-click="Login(LoginForm);" class="btn btn-sm btn-primary pull-right m-t-n-xs" type="submit">
+                                        <strong>登 录</strong>
+                                    </button>
+                                </div>
+                            </div>
+                        </form>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Jquery Js -->
+    <script type="text/javascript" src="~/Sure.JavaScript/Sure.Web/js/jquery.min.js?v=k2.1.4"></script>
+    <!-- toastr.min Js -->
+    <script type="text/javascript" src="~/Sure.JavaScript/Sure.Toastr/toastr.min.js"></script>
+    <!-- bootstrap.min -->
+    <script type="text/javascript" src="~/Sure.JavaScript/Sure.Web/js/bootstrap.min.js?v=3.3.5"></script>
+    <!-- content.min -->
+    <script type="text/javascript" src="~/Sure.JavaScript/Sure.Web/js/content.min.js?v=1.0.0"></script>
+    <!-- icheck.min -->
+    <script type="text/javascript" src="~/Sure.JavaScript/Sure.Web/js/plugins/iCheck/icheck.min.js"></script>
+    <!-- jquery.combo.select -->
+    <script type="text/javascript" src="~/Sure.JavaScript/Sure.Jquery/jquery.combo.select.js"></script>
+    <!-- jquery.peity.min -->
+    <script type="text/javascript" src="~/Sure.JavaScript/Sure.Web/js/plugins/peity/jquery.peity.min.js"></script>
+    <!-- codemirror -->
+    <script type="text/javascript" src="~/Sure.JavaScript/Sure.Web/js/plugins/codemirror/codemirror.js"></script>
+    <!-- javascript -->
+    <script type="text/javascript" src="~/Sure.JavaScript/Sure.Web/js/plugins/codemirror/mode/javascript/javascript.js"></script>
+    <!-- jquery.dataTables -->
+    <script type="text/javascript" src="~/Sure.JavaScript/Sure.Web/js/plugins/dataTables/jquery.dataTables.min.js"></script>
+    <!-- dataTables.bootstrap -->
+    <script type="text/javascript" src="~/Sure.JavaScript/Sure.Web/js/plugins/dataTables/dataTables.bootstrap.js"></script>
+    <!-- layer -->
+    <script type="text/javascript" src="~/Sure.JavaScript/Sure.Layer/layer.js"></script>
+    <!-- GeneratedFile.JavaScript -->
+    <script type="text/javascript" src="~/Sure.JavaScript/Sure.Project/js/GeneratedFile.JavaScript.js"></script>
+
+</body>
+</html>

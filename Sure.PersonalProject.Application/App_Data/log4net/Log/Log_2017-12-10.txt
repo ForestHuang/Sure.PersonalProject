@@ -1,0 +1,14 @@
+
+Begin----------------------Sure.PersonalProject.DAL.DEFAULTDAL--------------------------Begin 
+日志位置 : Sure.PersonalProject.DAL.DEFAULTDAL 
+日志时间 : 2017-12-10 19:02:14,214 
+日志类型 : ERROR 
+日志内容 : UPDATE_SURE_MENU(SURE_MENU model) ----> “=”附近有语法错误。 
+End------------------------Sure.PersonalProject.DAL.DEFAULTDAL----------------------------End 
+
+Begin----------------------Sure.PersonalProject.DAL.DEFAULTDAL--------------------------Begin 
+日志位置 : Sure.PersonalProject.DAL.DEFAULTDAL 
+日志时间 : 2017-12-10 19:19:12,920 
+日志类型 : ERROR 
+日志内容 : UPDATE_SURE_MENU(SURE_MENU model) ----> “=”附近有语法错误。 
+End------------------------Sure.PersonalProject.DAL.DEFAULTDAL----------------------------End 

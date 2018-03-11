@@ -1,0 +1,8 @@
+
+Begin----------------------System.String--------------------------Begin 
+日志位置 : System.String 
+日志时间 : 2017-11-06 10:14:50,089 
+日志类型 : ERROR 
+日志内容 : 【System.String.Substring】 全局捕获异常信息 —————————> startIndex 不能大于字符串长度。
+参数名: startIndex 
+End------------------------System.String----------------------------End 
